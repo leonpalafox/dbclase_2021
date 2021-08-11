@@ -27,17 +27,17 @@ Los estudiantes serán capaces de crear y modificar una base de datos, así como
 
 ## Horas de clase
 
-- Martes 12:30 - 14:00
-- Jueves 11:30 - 13:00
+- Miercoles 8:30 - 10:00
+- Jueves 8:30 - 10:00
 
 ## Sitio web
 
-Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase_2020/
+Clases, tareas, temario y políticas de calificaciones se encuentran disponibles en el sitio web: https://leonpalafox.github.io/dbclase_2021/
 
 
 ## Horas de oficina
 
-Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico leon.palafox@gmail.com.
+Estaré disponible antes de la clase en mi oficina (Ingenieria 24), o haciendo una cita al correo electornico lfpalafox@up.edu.mx
 
 # Evaluacion
 
@@ -52,7 +52,7 @@ La evaluación consistirá en:
 
 
 # Absentismo
-Es obligatorio atender a todas las sesiones.
+Es obligatorio atender al 80% de las sesiones.
 
 En caso de alguna situación extraordinaria se deberá platicarlo con la directora de la carrera y el profesor.
 
@@ -105,15 +105,8 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 
 # Slides
 
-- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_1_2020.pdf)
-- [Clase 2 - Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_2_2020.pptx)
-- [Clase 3 - Historia Base de Datos](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_3_2020.pptx)
-- [Clase 4 - Modelo Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_4_2020.pptx)
-- [Clase 5 - Diagrama E-R](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_5_2020.pptx)
-- [Clase 6 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_6_2020.pptx)
-- [Clase 7 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_7_2020.pptx)
-- [Clase 8 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_8_2020.pptx)
-- [Clase 9 - Algebra Relacional/Tarea](https://github.com/leonpalafox/dbclase_2020/blob/master/Slides/Clase_9_2020.pptx)
+- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_1_2021.pptx)
+
 
 # Sets de Datos
 
