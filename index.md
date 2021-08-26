@@ -106,6 +106,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 # Slides
 
 - [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_1_2021.pptx)
+- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_2_2021.pptx)
+- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_3_2021.pptx)
+- [Clase 1 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_4_2021.pptx)
 
 
 # Sets de Datos
