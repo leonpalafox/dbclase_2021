@@ -109,6 +109,9 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 - [Clase 2 - Introducción](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_2_2021.pptx)
 - [Clase 3 - Diagrama E/R](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_3_2021.pptx)
 - [Clase 4 - Normalizacion](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_4_2021.pptx)
+- [Clase 5 - Diagrama E/R](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_5_2021.pptx)
+- [Narracion de Historias](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/NarracionHistorias.pptx)
+- [Explicacion del Examen](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Examen_Explicacion.pptx)
 
 
 # Sets de Datos
