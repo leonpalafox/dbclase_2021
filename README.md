@@ -110,6 +110,12 @@ En caso de alguna situación extraordinaria se deberá platicarlo con la directo
 - [Clase 3 - Diagrama E/R](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_3_2021.pptx)
 - [Clase 4 - Normalizacion](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_4_2021.pptx)
 - [Clase 5 - Diagrama E/R](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_5_2021.pptx)
+- [Clase 6 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_6_2021.pptx)
+- [Clase 7 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_7_2021.pptx)
+- [Clase 8 - Algebra Relacional](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_8_2021.pptx)
+- [Clase 9 - Algebra Relacional /SQL](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_9_2021.pptx)
+- [Clase 10 - SQL](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_10_2021.pptx)
+- [Clase 11 - SQL](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Clase_11_2021.pptx)
 - [Narracion de Historias](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/NarracionHistorias.pptx)
 - [Explicacion del Examen](https://github.com/leonpalafox/dbclase_2021/blob/master/Slides/Examen_Explicacion.pptx)
 
